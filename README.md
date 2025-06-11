@@ -5,6 +5,8 @@ FC Tracker provides a graphical user interface (offline html) for viewing events
 
 No modifications to FC 24 are required for this tool to work. Online functionality of the game isn't affected.
 
+Important! Only new career mode saves started while the tracking tool is running are supported.
+
 # Features
 - Career information
   - match statistics, transfers, managed players, trophies won
